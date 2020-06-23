@@ -1,2 +1,2 @@
 # Python-for-Data-Science
- Python for Data Science
+Repo for coursera's Python for Data Science course
